@@ -79,3 +79,4 @@ urllib3==2.2.2
 watchdog==6.0.0
 Werkzeug==3.0.4
 wordcloud==1.9.3
+scikit-learn
